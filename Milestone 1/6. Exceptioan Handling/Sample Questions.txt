@@ -1,0 +1,10 @@
+What will be the output for print(5-'A')?
+TypeError
+Which block is always executed irrespective of the exception?
+finally
+Which block is executed when there is no exception?
+else
+Which is the base class for all the exception classes?
+BaseException
+Do we need any module to implement exception handling?
+No.
