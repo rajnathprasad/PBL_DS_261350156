@@ -1,0 +1,8 @@
+# Write a function to print the even numbers from a given list. List is passed to the function as an argument.
+def even(l):
+    for i in l:
+        if i%2==0:
+            print(i,end=" ")
+
+l=[1,2,3,4,5,6,7,8,9]
+even(l)
