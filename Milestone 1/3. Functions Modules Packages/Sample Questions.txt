@@ -1,0 +1,14 @@
+List few built in functions.
+print(), input(), len(), type().
+Which keyword marks the start of the function?
+def
+Which keyword ends the execution of a function?
+return
+Which allows you to logically organize your Python files?
+Modules.
+How to import a module with alias name?
+import module_name as alias
+Which command lists the built in modules?
+help("modules")
+Can we import multiple modules with a single import statement?
+Yes.
