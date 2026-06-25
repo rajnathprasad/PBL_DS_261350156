@@ -1,0 +1,14 @@
+Does list maintain insertion order?
+Yes.
+Can we access list items with negative index?
+Yes.
+Which function empties the list?
+clear()
+Which class represents the group of characters?
+str
+What is slicing?
+Extracting a part of a sequence.
+Which function toggles the cases?
+swapcase()
+Does set take duplicate elements?
+No.

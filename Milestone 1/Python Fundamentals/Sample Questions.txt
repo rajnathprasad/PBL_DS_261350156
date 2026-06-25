@@ -1,0 +1,24 @@
+List out few scripting languages.
+Python, JavaScript, PHP, Perl.
+What is the another name for Python 3.0?
+Python 3000 (Py3k).
+Which command enables the interactive terminal mode?
+python
+List out few mutable data types.
+List, Dictionary, Set.
+Which function returns the location of an object?
+id()
+Which operator does integer division?
+//
+What is type casting?
+Converting one data type to another.
+How to do multi line comment?
+Using triple quotes (''' ''' or """ """).
+Which built in function returns a sequence of integers?
+range()
+Can we use else with for?
+Yes.
+Can we write statements after break keyword?
+Yes, outside the loop.
+Which statement does nothing?
+pass
