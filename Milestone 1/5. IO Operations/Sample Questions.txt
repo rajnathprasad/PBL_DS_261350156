@@ -1,0 +1,6 @@
+How to open a file in create mode?
+open("file.txt","x")
+Which function reads one line at a time?
+readline()
+Which module is required to delete files or folders?
+os module
